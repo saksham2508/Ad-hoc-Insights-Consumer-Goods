@@ -1,8 +1,12 @@
 # Ad-Hoc Insights Project – AtliQ Hardwares  
+![Company Logo](https://github.com/saksham2508/Ad-hoc-Insights-Consumer-Goods/blob/main/Project%20Data/presentation_front_page_image.jpg)
+
 
 This project is part of the **Codebasics Resume Project Challenge** where I worked as a Junior Data Analyst at **AtliQ Hardwares** (a fictitious company). The management required **data-driven insights** to support quick and smart business decisions.  
 
-The task involved answering **10 ad-hoc requests** from business leaders using **SQL** and presenting the findings with **Power BI** visualizations.  
+The task involved answering **10 ad-hoc requests** from business leaders using **SQL** and presenting the findings with **Power BI** visualizations.
+[Project PDF](https://github.com/saksham2508/Ad-hoc-Insights-Consumer-Goods/blob/main/Ad-Hoc%20insights%20Project.pdf)
+
 
 ---
 
